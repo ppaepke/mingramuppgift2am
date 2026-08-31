@@ -5,4 +5,5 @@
 CORS konfigurerades inte i Azure Portal eftersom lösningen testas via Postman
 
 Det svåraste för mig i den här uppgiften var att förstå arkitekturen — hur VNet, subnets och NSG faktiskt hänger ihop och samverkar.
-Den andra biten som var jobbig var Entra ID och Easy Auth. Tanken var att vi skulle sätta upp det på riktigt, men det funkade inte pga skolkontots behörigheter.
+Den andra biten som var jobbig var Entra ID och Easy Auth. Tanken var att vi skulle sätta upp det på riktigt, men det funkade inte pga skolkontots behörigheter. 
+Hade vart kul att se hur det faktiskt fungerade.
